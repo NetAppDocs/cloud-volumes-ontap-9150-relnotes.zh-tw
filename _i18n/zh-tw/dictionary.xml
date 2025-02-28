@@ -175,7 +175,6 @@
   <block id="4133f4256c016927cb270503c43adeb6" category="paragraph">AWS 本機區域中的這些執行個體類型不支援高寫入速度。</block>
   <block id="8c4b25218155a1fdb972f4169855d04f" category="section-title">支援的地區</block>
   <block id="a3f8304ab1695053d71855c60f8abf63" category="inline-link">Cloud Volumes全球區域</block>
-  <block id="4375839c669e051e5f2a8de11ba0c5d0" category="paragraph">如需 AWS 區域支援<block ref="2b6a522631c3b3b8afac5466195e108a" category="inline-link-rx"></block>、請參閱。</block>
   <block id="b889869e31827a33530d6fd02141fdb5" category="summary">Azure支援多Cloud Volumes ONTAP 種支援的支援功能。</block>
   <block id="e4b60b51b40a0907e38b3293d36780e6" category="doc">Azure支援的組態</block>
   <block id="c334038ed8a782403ae705a8de1f584b" category="section-title">依授權支援的組態</block>
@@ -292,7 +291,6 @@
   <block id="fe77d7482327c65392eb365d35d8bd99" category="paragraph">* 優質 SSSSD *</block>
   <block id="0bd47e4dae550ba8bfd133248f3efde6" category="list-text">16 TiB （僅限託管磁碟）</block>
   <block id="e976f9591845e426a456344d35bd0caf" category="list-text">32 TiB （僅限託管磁碟）</block>
-  <block id="7c7627c6477255acb2239bd1be90f346" category="paragraph">如需 Azure 區域支援<block ref="2b6a522631c3b3b8afac5466195e108a" category="inline-link-rx"></block>、請參閱。</block>
   <block id="9141535b8d150812f3cded29f090ad8c" category="summary">Google Cloud支援多Cloud Volumes ONTAP 種支援的支援功能。</block>
   <block id="9e931b1cee40a7346d1f06dd6a75ba8e" category="doc">Google Cloud支援的組態</block>
   <block id="ea724697af39ce2b490b5643777ed273" category="paragraph">Cloud Volumes ONTAP 可在 Google Cloud 中作為單一節點系統使用、也可作為高可用度（ HA ）節點配對、以提供容錯能力和不中斷營運的功能。</block>
@@ -330,7 +328,6 @@
   <block id="0706c165b0123479cffaac9b374484f0" category="list-text">8TB</block>
   <block id="324f218b8144e744b54eb58e0bf14eea" category="list-text">16TB</block>
   <block id="c1edd650c09defc6ca8d0aaf67803ddc" category="list-text">64TB</block>
-  <block id="b338d2a3e5b2fa0602cf93fe49c51138" category="paragraph">如需 Google Cloud 地區支援<block ref="2b6a522631c3b3b8afac5466195e108a" category="inline-link-rx"></block>、請參閱。</block>
   <block id="34515f1d88b10d0db0a78eba6c533394" category="summary">已知問題可識別可能導致您無法成功使用本產品版本的問題。</block>
   <block id="95dc0391ce7b396d7dd5622284e8fc3e" category="doc">已知問題</block>
   <block id="514c35ac615c3426962d39f27b71014b" category="paragraph">本版本Cloud Volumes ONTAP 中沒有任何特定於此版本的已知問題。</block>
@@ -367,7 +364,6 @@
   <block id="0066e8873a17823db601b98ebbc37dd2" category="section-title">HA 限制</block>
   <block id="b1969fa9ebe4dd2003618adb77082978" category="paragraph">某些地區不支援HA配對。</block>
   <block id="d91c9372e1fdf74d651217f1a36e518b" category="inline-link">檢視支援的Azure地區清單</block>
-  <block id="1e6996b39daf779b565c50c8411fbc8d" category="paragraph"><block ref="8e36f0f32d75ebd3c7851e726c538544" category="inline-link-rx"></block>。</block>
   <block id="1eba71d64e6c5e410e558530711e835b" category="summary">已知限制指出本產品版本不支援的平台、裝置或功能、或是無法與產品正確互通的平台、裝置或功能。請仔細檢閱這些限制。</block>
   <block id="d634bf53c207457b9f979a3511629617" category="doc">Google Cloud的已知限制</block>
   <block id="5caaf889f6f108c7753c8110e25e46bc" category="paragraph">下列已知限制僅適用於Cloud Volumes ONTAP Google Cloud Platform的功能。請務必同時檢閱<block ref="edcf15b4d9d7d1e018ccca7ce112dd3e" category="inline-link-macro-rx"></block>。</block>
@@ -761,4 +757,8 @@
   <block id="c3647f40e3574e0e6f49e20c19135bfa" category="section-title">使用 Azure VM 延伸功能的限制</block>
   <block id="9d167ed7d52d81da8d83590ec3b5a4af" category="paragraph">Cloud Volumes ONTAP 不支援部署中的 Azure 虛擬機器（ VM ）延伸功能和 VM 應用程式。在 Azure 中使用 Cloud Volumes ONTAP 搭配 VM 延伸功能會導致作業延遲， NetApp 建議您避免這些延遲。</block>
   <block id="30f90a351fdc853ffe232763d3200b8b" category="sidebar">Cloud Volumes ONTAP 9.15.0 版本資訊</block>
+  <block id="0890aa708cef7529c2bd35cb7d2895df" category="paragraph">如需 AWS 區域支援<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>、請參閱。</block>
+  <block id="f0de068c81c765820aca0fa8fe017396" category="paragraph">如需 Azure 區域支援<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>、請參閱。</block>
+  <block id="9b986795dc6a434c7339bfecbd5e5c8b" category="paragraph">如需 Google Cloud 地區支援<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>、請參閱。</block>
+  <block id="d798d4963d0ac509a1bda5483d9b9a52" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block>。</block>
 </blocks>

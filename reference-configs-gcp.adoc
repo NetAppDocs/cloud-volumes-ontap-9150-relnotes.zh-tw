@@ -189,4 +189,4 @@ NOTE: _Flash快取_、高寫入模式和8、896的MTU是功能相依的、無法
 
 == 支援的地區
 
-如需 Google Cloud 地區支援 https://cloud.netapp.com/cloud-volumes-global-regions["Cloud Volumes全球區域"^]、請參閱。
+如需 Google Cloud 地區支援 https://bluexp.netapp.com/cloud-volumes-global-regions["Cloud Volumes全球區域"^]、請參閱。
